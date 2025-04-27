@@ -47,6 +47,4 @@ gcc blockchain.c -o blockchain -lssl -lcrypto
 ```
 
 ## Notes
-- This project is for educational purposes.
-- No real Proof of Work or networking is implemented.
 - Memory freeing for Merkle trees (`free_merkle_tree`) is mentioned but not yet coded.
