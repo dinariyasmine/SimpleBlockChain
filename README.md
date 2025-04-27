@@ -1,7 +1,11 @@
 # SimpleBlockChain
-![alt text](image-1.png)
 
 This project is a basic blockchain implementation in **C**, using **SHA-256** hashing (via OpenSSL) and a **Merkle Tree** for transaction integrity.
+![alt text](image-1.png)
+
+
+
+
 ![alt text](image.png)
 
 
