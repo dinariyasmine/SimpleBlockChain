@@ -1,0 +1,10 @@
+# Ignore GCC compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.out
+*.exe
+
+# Ignore the core dump files (if they are generated)
+core.*
