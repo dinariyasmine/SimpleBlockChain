@@ -121,7 +121,7 @@ make
 
 ## 📄 Reference Assignment
 
-Please refer to the full assignment description for context and evaluation criteria:
+You can refer to the full assignment description for context:
 📎 [Download the PDF Assignment](./assignement.pdf) 
 
 
