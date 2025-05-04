@@ -119,7 +119,7 @@ make
 
 ---
 
-## 📄 Reference Assignment
+## Reference Assignment
 
 You can refer to the full assignment description for context:
 📎 [Download the PDF Assignment](./assignement.pdf) 
