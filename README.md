@@ -148,10 +148,6 @@ typedef struct Block {
 
 📎 [Download the PDF Assignment](./assignement.pdf)
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
 ---
 
 *Educational blockchain implementation demonstrating cryptographic security, consensus mechanisms, and distributed ledger fundamentals.*
